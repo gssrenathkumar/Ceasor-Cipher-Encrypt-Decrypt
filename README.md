@@ -15,7 +15,7 @@
 
 <h2>Example output</h2>
 
-<img src="https://example.com/ceasar-cipher-output.png" alt="Example output">
+<img src="ceasar-cipher-output.png" alt="Example output">
 
 <h2>License</h2>
 
